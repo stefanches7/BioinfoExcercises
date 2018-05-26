@@ -1,1 +1,2 @@
-# Bioinfo Excercises \n Source-code of solutions of excercises during B. Sc. Bioinformatics
+# Bioinfo Excercises
+Source-code of solutions of excercises during B. Sc. Bioinformatics
